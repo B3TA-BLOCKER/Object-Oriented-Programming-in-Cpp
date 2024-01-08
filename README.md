@@ -1,6 +1,6 @@
-# Object-Oriented-Programming-in-Cpp
 
-# C++ OOP Learning 🚀
+
+# C++ OOP  🚀
 
 Welcome to my C++ OOP Learning repository! 📚 This space documents my journey of mastering Object-Oriented Programming (OOP) in C++. Explore C++ files to deepen your understanding of key OOP concepts.
 
@@ -17,11 +17,6 @@ Each example is accompanied by clear and concise code, enriched with comments to
 ## Contributions 🤝
 
 Feel free to contribute by adding more examples, fixing bugs, or enhancing documentation. Open issues for questions or improvements.
-
-## Version Control 🔄
-
-Each commit reflects a step in my learning journey. Check the commit history to see the progression.
-
 
 
 Happy coding! 🌟
