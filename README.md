@@ -2,7 +2,7 @@
 
 # C++ OOP  🚀
 
-Welcome to my C++ OOP Learning repository! 📚 This space documents my journey of mastering Object-Oriented Programming (OOP) in C++. Explore C++ files to deepen your understanding of key OOP concepts.
+📚 This space documents my journey of mastering Object-Oriented Programming (OOP) in C++. Explore C++ files to deepen your understanding of key OOP concepts.
 
 ## Examples 💻
 
